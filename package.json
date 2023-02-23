@@ -1,0 +1,19 @@
+{
+  "name": "projects2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "userId.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^4.10.1",
+    "date-fns": "^2.29.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "prisma": "^4.10.1"
+  }
+}
